@@ -35,7 +35,7 @@ import org.lwjgl.util.vector.Vector3f;
  */
 public abstract class Skill {
     
-    protected static final String AUDIO_SKILLS_PATH = "oldres/audio/skills/";
+    protected static final String AUDIO_SKILLS_PATH = "res/audio/skills/";
     
     protected String name;
     protected String description;
