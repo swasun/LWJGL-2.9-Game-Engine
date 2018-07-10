@@ -7,7 +7,7 @@ package game.skills;
 
 /**
  *
- * @author marjorie
+ * @author swa
  */
 public abstract class TestSkill extends Skill {
     

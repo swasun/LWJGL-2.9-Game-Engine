@@ -9,7 +9,7 @@ import org.lwjgl.input.Keyboard;
 
 /**
  *
- * @author marjorie
+ * @author swa
  */
 public class ControlsKeys {
     

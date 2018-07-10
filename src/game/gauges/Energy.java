@@ -7,7 +7,7 @@ package game.gauges;
 
 /**
  *
- * @author marjorie
+ * @author swa
  */
 public class Energy extends Vitality {
     

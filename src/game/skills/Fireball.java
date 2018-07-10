@@ -10,7 +10,7 @@ import gameEngine.audio.Sound;
 
 /**
  *
- * @author marjorie
+ * @author swa
  */
 public class Fireball extends TestSkill {
 

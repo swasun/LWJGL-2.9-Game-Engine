@@ -11,7 +11,7 @@ import gameEngine.textures.ModelTexture;
 
 /**
  *
- * @author marjorie
+ * @author swa
  */
 public class Item extends Entity {
     

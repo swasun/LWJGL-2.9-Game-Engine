@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  *
- * @author marjorie
+ * @author swa
  */
 public class Inventory {
 

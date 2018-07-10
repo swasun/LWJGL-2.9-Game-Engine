@@ -7,7 +7,7 @@ package game.gauges;
 
 /**
  *
- * @author marjorie
+ * @author swa
  */
 public abstract class Vitality {
     

@@ -13,7 +13,7 @@ import org.lwjgl.util.vector.Vector3f;
 
 /**
  *
- * @author marjorie
+ * @author swa
  */
 public class Barrel extends Entity {
 

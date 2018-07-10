@@ -7,7 +7,7 @@ package gameEngine.audio;
 
 /**
  *
- * @author marjorie
+ * @author swa
  */
 public class Sound {
     

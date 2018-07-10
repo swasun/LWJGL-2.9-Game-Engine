@@ -7,7 +7,7 @@ package game.equipments;
 
 /**
  *
- * @author marjorie
+ * @author swa
  */
 public abstract class Equipment {
     

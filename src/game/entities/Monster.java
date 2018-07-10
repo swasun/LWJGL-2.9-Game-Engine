@@ -11,7 +11,7 @@ import gameEngine.entities.EntityBuilder;
 
 /**
  *
- * @author marjorie
+ * @author swa
  */
 public class Monster extends AliveEntity {
 

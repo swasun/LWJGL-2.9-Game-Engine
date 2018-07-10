@@ -7,7 +7,7 @@ package game.keymapping;
 
 /**
  *
- * @author marjorie
+ * @author swa
  */
 public class Key {
 
