@@ -1,4 +1,4 @@
-package gameEngine.engineTester;
+package game;
 
 import game.effects.Cosmic;
 import game.effects.Effect;
@@ -425,8 +425,8 @@ public class MainGameLoop {
         }
 
         //*********Clean Up Below**************
-        fire.cleanUp();
-        cosmic.cleanUp();
+        //fire.cleanUp();
+        //cosmic.cleanUp();
         //alvaeTheme.delete();
         //AudioMaster.cleanUp();
         PostProcessing.cleanUp();

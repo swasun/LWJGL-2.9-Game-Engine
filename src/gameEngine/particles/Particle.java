@@ -1,7 +1,7 @@
 package gameEngine.particles;
 
 import gameEngine.entities.Camera;
-import game.entities.Player;
+import gameEngine.entities.Entity;
 import gameEngine.renderEngine.DisplayManager;
 import org.lwjgl.util.vector.Vector2f;
 import org.lwjgl.util.vector.Vector3f;
@@ -86,7 +86,7 @@ public class Particle {
     }
     
     protected boolean update(Camera camera) {
-        velocity.y += Player.GRAVITY * gravityEffect * DisplayManager.getFrameTimeSeconds();
+        velocity.y += Entity.GRAVITY * gravityEffect * DisplayManager.getFrameTimeSeconds();
         reusableChange.set(velocity);
         reusableChange.scale(DisplayManager.getFrameTimeSeconds());
         Vector3f.add(reusableChange, position, position);
