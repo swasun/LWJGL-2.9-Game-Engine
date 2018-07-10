@@ -21,3 +21,9 @@ A simple LWJGL 2.9 Game Engine based on ThinMatrix OpenGL tutorials.
 * shadow box
 * mouse picker
 * water
+
+# Build
+
+[Setting up LWJGL with Netbeans](http://wiki.lwjgl.org/wiki/Setting_Up_LWJGL_with_NetBeans.html)
+
+[Setting up LWJGL with Eclipse](http://wiki.lwjgl.org/wiki/Setting_Up_LWJGL_with_Eclipse.html)
