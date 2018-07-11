@@ -4,3 +4,4 @@
 *.properties
 /dist/
 build.xml
+manifest.mf
