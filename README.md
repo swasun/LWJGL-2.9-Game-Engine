@@ -1,7 +1,9 @@
 # LWJGL-2.9-Game-Engine
+
 A simple LWJGL 2.9 Game Engine based on ThinMatrix OpenGL tutorials.
 
 # Features
+
 * audio
 * bloom effect
 * camera
@@ -22,8 +24,24 @@ A simple LWJGL 2.9 Game Engine based on ThinMatrix OpenGL tutorials.
 * mouse picker
 * water
 
-# Build
+# Prerequisites
 
-[Setting up LWJGL with Netbeans](http://wiki.lwjgl.org/wiki/Setting_Up_LWJGL_with_NetBeans.html)
+* Recent version of git that support `git-lfs`
+* [git-lfs](https://git-lfs.github.com/) used to store .wav resources
+* Java 8
+* copylibstask (.jar in `lib`)
+* LWJGL-2.9.3 (.jar in `lib`)
+* PNGDecoder (.jar in `lib`)
 
-[Setting up LWJGL with Eclipse](http://wiki.lwjgl.org/wiki/Setting_Up_LWJGL_with_Eclipse.html)
+# Setting up project
+
+* Add .jar files from `lib` in libraries
+* [Setting up LWJGL with Netbeans](http://wiki.lwjgl.org/wiki/Setting_Up_LWJGL_with_NetBeans.html) or [Setting up LWJGL with Eclipse](http://wiki.lwjgl.org/wiki/Setting_Up_LWJGL_with_Eclipse.html)
+
+# Cross-plateform
+
+Tested successfully with the following OS:
+
+* Windows 10 (64-bits)
+* Ubuntu 14.04 (64-bits)
+* Ubuntu 16.04 (64-bits)
