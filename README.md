@@ -26,7 +26,7 @@ A simple LWJGL 2.9 Game Engine based on ThinMatrix OpenGL tutorials.
 
 # Prerequisites
 
-* Recent version of git that support `git-lfs`
+* Recent version of git that supports`git-lfs`
 * [git-lfs](https://git-lfs.github.com/) used to store .wav resources
 * Java 8
 * copylibstask (.jar in `lib`)
